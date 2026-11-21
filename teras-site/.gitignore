@@ -1,0 +1,9 @@
+# Rahasia & lokal: JANGAN PERNAH di-commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vercel
+node_modules/
+.DS_Store
